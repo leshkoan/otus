@@ -1,9 +1,4 @@
 ﻿using Spacebattle;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ICommand = Spacebattle.Interfaces.ICommand;
 
 namespace SpacebattleTests
